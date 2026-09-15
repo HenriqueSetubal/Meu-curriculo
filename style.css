@@ -1,0 +1,27 @@
+/* Configuração para o site inteiro */
+body {
+    background-color: rgb(39, 37, 37);
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+    background: white;
+    padding: 0;
+    border-radius: 30px;
+
+}
+
+h1, h2, h3 {
+    text-align: center;
+    color: #333;
+}
+
+.container img {
+    display: block;
+    margin: 20px auto;       
+    border-radius: 50%;     
+}
